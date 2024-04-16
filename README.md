@@ -9,4 +9,4 @@ source .env
 docker compose up --build
 ```
 
-Once your project is up and running, you can access UI on the [localhost](htpp://localhost).
+Once your project is up and running, you can access [UI](http://localhost) and [API](http://localhost/api/v1/docs).
